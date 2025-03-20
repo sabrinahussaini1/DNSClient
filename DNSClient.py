@@ -4,7 +4,7 @@ import dns.resolver
 local_host_ip = ????
 real_name_server = ???? # Research public DNS servers to find a valid DNS server IP address to use
 
-
+fff
 # Create a list of domain names to query - use the same list from the DNS Server
 domainList  = ['example.com.','safebank.com.','google.com.','nyu.edu.','legitsite.com.']
 
